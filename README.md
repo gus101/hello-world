@@ -1,2 +1,4 @@
 # hello-world
-place to store ideas, resources
+place to store ideas, resources. 
+
+Like python and data.
